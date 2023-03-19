@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  background-color: #283149;
+    background-image: linear-gradient( #002B5B, #146C94)
 }
 
 h1 {
@@ -83,3 +83,10 @@ background-image: url(images/tom3.png);
   margin: 10px;
   background-color: white;
 }
+
+h3{
+    font-size: 1rem;
+    color: #DBEDF3;
+    font-family: "Arvo", cursive;
+
+  }
